@@ -1,0 +1,1 @@
+Repo intended to implement training for scythe, mostly is probably going to take a long time to encode the rules.
